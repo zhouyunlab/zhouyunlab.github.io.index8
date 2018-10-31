@@ -28,7 +28,9 @@ h1,h2,h3,h4,h5,h6 {
 a {
   color: {{ site.link-col }};
 }
-a:hover,
+a:hover {
+  color: {{ site.hover-col }};
+}
 a:focus {
   color: {{ site.hover-col }};
 }
@@ -40,7 +42,7 @@ blockquote p:first-child {
   margin-top: 0;
 }
 hr.small {
-  max-width: 100px;
+  max-width: 500px;
   margin: 15px auto;
   border-width: 4px;
   border-color: inherit;
@@ -530,7 +532,7 @@ footer .theme-by {
     padding: 150px 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 80px;
+    font-size: 70px;
   }
   .intro-header .post-heading h1 {
     font-size: 50px;
