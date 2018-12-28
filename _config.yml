@@ -14,10 +14,10 @@ url: "http://username.github.io"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: NWPU SSM EEG LAB Dataset
+title: Educational EEG data base
 
 # Short description of your site
-description: NSELD
+description: EduEEGDB
 
 # --- Navigation bar options --- #
 
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Wang Yuhan
+  name: EduEEGDB
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -68,9 +68,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: "xwyh@mail.nwpu.edu.cn"
-  github: Nwpu-WangYuhan
-  telephone: +8618634342502
+  email: "EduEEGDB@Gmail.com"
+  github: EduEEGDB
+  telephone: +8615094008425
 
 # Select which share links to show in posts
 share-links-active:
