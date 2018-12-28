@@ -1,7 +1,7 @@
 ---
 layout: post
-title: EEG DATASET ABSTRACT
-subtitle: The dataset of electroencephalogram project
+title: Educational EEG data base ABSTRACT
+subtitle: The database of electroencephalogram project
 ---
 
 **The dataset of this project consists of two parts:**
