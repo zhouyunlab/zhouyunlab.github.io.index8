@@ -8,8 +8,8 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "http://zhouyunlab.github.io/index8.html"
-baseurl: "/index8.html"
+url: "http://zhouyunlab.github.io/index8"
+baseurl: "/index.html"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
